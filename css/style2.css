@@ -1,12 +1,18 @@
 #birinci{
     background-color: red;
+    
 }
 #ikinci{
     background-color: black;
+    
+    
 }
 .butunluk{
     color: #ffff;
 }
 #hepsi{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 250px;
+    width: 900px;
+    margin: auto;
 }
