@@ -1,5 +1,6 @@
 #birinci{
     background-color: red;
+    font-size: 35px;
     
 }
 #ikinci{
@@ -12,7 +13,7 @@
 }
 #hepsi{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    height: 250px;
-    width: 900px;
+    height: 100%;
+    width: 100%;
     margin: auto;
 }
